@@ -1,3 +1,3 @@
 # tushardemo
-This is my demoProject /n
+This is my demoProject 
 Author- Tushar Soni
